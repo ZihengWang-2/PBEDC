@@ -3,7 +3,7 @@
 This repository provides the necessary code to perform the simulations for the paper **Perturbation-Based Error Detection and Correction (PBEDC) in Dependable Large-Scale Machine Learning Systems**. 
 
 ### **Reference Links**
-This repository integrates OpenAI’s CLIP model to evaluate and simulate fault injection and detection techniques.
+This repository integrates OpenAI’s CLIP model to evaluate fault injection and detection techniques.
 - **CLIP Blog**: [OpenAI Blog](https://openai.com/blog/clip/)
 - **CLIP Paper**: [CLIP: Connecting Text and Images](https://arxiv.org/abs/2103.00020)
 - **CLIP Colab Notebook**: [Colab Notebook](https://colab.research.google.com/github/openai/clip/blob/master/notebooks/Interacting_with_CLIP.ipynb)
